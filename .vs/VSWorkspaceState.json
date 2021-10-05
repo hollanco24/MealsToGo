@@ -1,16 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
     "\\src",
     "\\src\\components",
-    "\\src\\components\\spacer",
+    "\\src\\components\\utility",
     "\\src\\features",
     "\\src\\features\\restaurants",
-    "\\src\\features\\restaurants\\screens",
-    "\\src\\infrastructure",
-    "\\src\\infrastructure\\theme"
+    "\\src\\features\\restaurants\\components",
+    "\\src\\features\\restaurants\\screens"
   ],
-  "SelectedNode": "\\src\\components\\spacer\\spacer.component.js",
+  "SelectedNode": "\\App.js",
   "PreviewInSolutionExplorer": false
 }
