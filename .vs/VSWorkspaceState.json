@@ -1,14 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
     "\\src",
-    "\\src\\components",
-    "\\src\\components\\utility",
-    "\\src\\features",
+    "\\src\\components\\spacer",
+    "\\src\\components\\typography",
     "\\src\\features\\restaurants",
-    "\\src\\features\\restaurants\\components",
-    "\\src\\features\\restaurants\\screens"
+    "\\src\\infrastructure\\theme",
+    "\\src\\services",
+    "\\src\\services\\restaurants",
+    "\\src\\services\\restaurants\\mock"
   ],
-  "SelectedNode": "\\App.js",
+  "SelectedNode": "\\src\\services\\restaurants\\restaurants.service.js",
   "PreviewInSolutionExplorer": false
 }
