@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
     "\\src",
-    "\\src\\components\\spacer",
-    "\\src\\components\\typography",
+    "\\src\\components",
+    "\\src\\components\\utility",
+    "\\src\\features",
     "\\src\\features\\restaurants",
-    "\\src\\infrastructure\\theme",
+    "\\src\\features\\restaurants\\components",
+    "\\src\\features\\restaurants\\screens",
     "\\src\\services",
-    "\\src\\services\\restaurants",
-    "\\src\\services\\restaurants\\mock"
+    "\\src\\services\\location"
   ],
-  "SelectedNode": "\\src\\services\\restaurants\\restaurants.service.js",
+  "SelectedNode": "\\src\\services\\location\\location.service.js",
   "PreviewInSolutionExplorer": false
 }
