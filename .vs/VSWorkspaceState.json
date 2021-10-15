@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\components",
-    "\\src\\components\\utility",
     "\\src\\features",
     "\\src\\features\\restaurants",
     "\\src\\features\\restaurants\\components",
     "\\src\\features\\restaurants\\screens",
     "\\src\\services",
-    "\\src\\services\\location"
+    "\\src\\services\\location",
+    "\\src\\services\\restaurants",
+    "\\src\\services\\restaurants\\mock"
   ],
-  "SelectedNode": "\\src\\services\\location\\location.service.js",
+  "SelectedNode": "\\src\\services\\location\\location.context.js",
   "PreviewInSolutionExplorer": false
 }
