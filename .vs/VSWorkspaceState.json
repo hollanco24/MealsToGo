@@ -4,13 +4,14 @@
     "\\src",
     "\\src\\features",
     "\\src\\features\\restaurants",
-    "\\src\\features\\restaurants\\components",
     "\\src\\features\\restaurants\\screens",
+    "\\src\\infrastructure",
+    "\\src\\infrastructure\\navigation",
     "\\src\\services",
     "\\src\\services\\location",
     "\\src\\services\\restaurants",
     "\\src\\services\\restaurants\\mock"
   ],
-  "SelectedNode": "\\src\\services\\location\\location.context.js",
+  "SelectedNode": "\\src\\infrastructure\\navigation\\restaurants.navigator.js",
   "PreviewInSolutionExplorer": false
 }
